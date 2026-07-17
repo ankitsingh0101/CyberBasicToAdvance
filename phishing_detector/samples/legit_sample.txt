@@ -1,0 +1,18 @@
+From: "GitHub" <noreply@github.com>
+To: developer@example.com
+Subject: Your repository was starred
+Date: Mon, 29 May 2026 10:00:00 +0000
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+DKIM-Signature: v=1; a=rsa-sha256; d=github.com; s=pf2014;
+
+Hi developer,
+
+Someone starred your repository awesome-project.
+
+You can view the repository here: https://github.com/developer/awesome-project
+
+You can disable these notifications in your notification settings:
+https://github.com/settings/notifications
+
+Thanks,
+The GitHub Team

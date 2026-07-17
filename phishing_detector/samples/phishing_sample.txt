@@ -1,0 +1,25 @@
+From: "PayPal Security" <security@paypa1-alert.com>
+To: victim@email.com
+Subject: URGENT: Your PayPal account has been suspended!
+Date: Mon, 29 May 2026 09:00:00 +0000
+Reply-To: collect@evil-domain.tk
+Authentication-Results: mx.example.com; spf=fail; dkim=fail; dmarc=fail
+
+Dear Customer,
+
+URGENT ACTION REQUIRED! Your PayPal account has been suspended due to suspicious activity detected on your account.
+
+You must verify your identity immediately within 24 hours or your account will be permanently terminated and legal action may be initiated.
+
+Click here to verify your account now: http://paypal-secure-verify.xyz/login?ref=suspended
+
+Please provide your:
+- Username and password
+- Credit card number and CVV
+- Social Security Number for identity verification
+
+If you do not confirm your account details within 24 hours, we will be forced to permanently close your account and report your activity to the authorities.
+
+Do not share this email with anyone. Keep this confidential.
+
+PayPal Security Team
